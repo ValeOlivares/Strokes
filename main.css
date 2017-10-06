@@ -1,0 +1,31 @@
+body{
+    text-align: center; /* alineo al centro el body*/
+}
+.Cuadrado-color{/* con esto sabemos que div estamos modificando */
+  background-color: black;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+  padding-bottom: 15px;
+}
+  .Info{
+    background-color: white;
+    color: black;
+    font-family: 'Inconsolata', monospace;
+  }
+.Enlaces{
+  background-color: white;
+  color: black;
+  font-family: 'Inconsolata', monospace;
+  border-top: 2px dashed black;
+}
+p{
+  background-color: white;
+  color: black;
+  font-family: 'Inconsolata', monospace;
+}
+img{
+  width: 700px;
+}
+.mifoto{
+  width: 300px;
+}
